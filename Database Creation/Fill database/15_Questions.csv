@@ -1,0 +1,102 @@
+QuestionID,CourseID,QuestionType,QuestionTitle,CorrectAnswer
+1,8,TF,The SQL SELECT statement is used to retrieve data from a database,TRUE
+2,8,TF,the ORDER BY clause is used to sort the result set in ascending order by default.,TRUE
+3,8,TF,The SQL UPDATE statement is used to delete rows from a table.,TRUE
+4,8,TF,"In SQL, the WHERE clause is used to specify conditions while retrieving or modifying data.",TRUE
+5,8,TF,The SQL JOIN clause is used to combine rows from two or more tables based on a related column between them.,TRUE
+6,8,TF,"In SQL, the GROUP BY clause is used to group rows that have the same values into summary rows.",TRUE
+7,8,TF,The SQL INSERT INTO statement is used to add new records into a database table.,TRUE
+8,8,TF,The SQL DELETE statement is used to remove existing records from a table.,TRUE
+9,8,TF,"In SQL, the HAVING clause is used to filter the results returned by the GROUP BY clause.",TRUE
+10,8,TF,"In SQL, a primary key constraint ensures that a column or a set of columns in a table uniquely identifies each row in that table.",TRUE
+11,8,TF,SQL stands for Structured Query Language.,TRUE
+12,8,TF,The SQL AVG() function returns the average value of a numeric column.,TRUE
+13,8,TF,The SQL TRUNCATE TABLE statement removes all rows from a table without logging individual row deletions.,TRUE
+14,8,TF,The SQL DELETE statement is used to remove table structure without deleting the data.,FALSE
+15,8,TF,SQL functions can only be used in the SELECT statement.,FALSE
+16,8,TF,The SQL INSERT INTO statement is used to update existing records in a table.,FALSE
+17,8,TF,SQL comments can span across multiple lines.,FALSE
+18,8,TF,"In SQL, the LIMIT clause is used to specify the number of columns to retrieve from a table.",FALSE
+19,8,TF,The SQL ALTER TABLE statement is used to create a new table in the database.,FALSE
+20,8,TF,The SQL JOIN clause is used to perform mathematical calculations on data retrieved from a table.,FALSE
+21,8,TF,"In SQL, the LIKE operator is used to search for exact matches only.",FALSE
+22,8,TF,SQL is not case-sensitive when it comes to keywords and identifiers.,FALSE
+23,8,TF,The SQL TRUNCATE TABLE statement can be rolled back using a transaction.,FALSE
+24,4,TF,Power BI is a business analytics tool developed by Microsoft.,FALSE
+25,4,TF,Power BI Desktop is a cloud-based version of Power BI.,FALSE
+26,4,TF,The SQL INSERT INTO statement is used to update existing records in a table.,FALSE
+27,4,TF,Power BI reports can be shared with others through the Power BI service.,FALSE
+28,4,TF,Power BI Desktop is the only tool available for creating Power BI reports.,FALSE
+29,4,TF,Power BI can connect to both cloud-based and on-premises data sources.,FALSE
+30,4,TF,Power BI Desktop is a free tool available for download from the Microsoft website.,FALSE
+31,4,TF,Power BI allows users to create custom calculations and measures using DAX (Data Analysis Expressions).,FALSE
+32,4,TF,Power BI reports can be embedded into websites and applications using Power BI Embedded.,FALSE
+33,4,TF,Power BI is primarily used for data visualization but cannot perform advanced data analysis.,FALSE
+34,4,TF,Power BI Desktop allows users to create interactive reports and dashboards.,TRUE
+35,4,TF,Power BI supports data preparation tasks such as data cleaning and transformation.,TRUE
+36,4,TF,"Power BI offers built-in connectors to popular data sources such as Excel, SQL Server, and Salesforce.",TRUE
+37,4,TF,Power BI reports can be scheduled to refresh automatically at specific intervals.,TRUE
+38,4,TF,Power BI Desktop allows users to create custom visuals using the Power BI visualization SDK.,TRUE
+39,4,TF,"Power BI Mobile apps are available for iOS, Android, and Windows devices.",TRUE
+40,4,TF,Power BI Pro allows for collaboration and sharing of reports with stakeholders within an organization.,TRUE
+41,4,TF,Power BI Embedded allows developers to integrate Power BI reports directly into custom applications.,TRUE
+42,2,TF,JavaScript is a programming language commonly used for web development.,TRUE
+43,2,TF,"JavaScript code is executed on the client-side, meaning it runs in the user's web browser.",TRUE
+44,2,TF,"JavaScript is a statically typed language, meaning variable types must be declared explicitly.",TRUE
+45,2,TF,JavaScript is primarily used for creating dynamic and interactive web pages.,TRUE
+46,2,TF,JavaScript can manipulate HTML elements and CSS styles on a web page.,TRUE
+47,2,TF,"JavaScript is a compiled language, meaning code is compiled before execution.",TRUE
+48,2,TF,JavaScript supports object-oriented programming concepts such as inheritance and encapsulation.,TRUE
+49,2,TF,JavaScript can be used on both the client-side and server-side with technologies like Node.js.,TRUE
+50,2,TF,"JavaScript is an interpreted language, meaning code is executed line by line at runtime.",TRUE
+51,2,TF,"JavaScript variables declared with the ""const"" keyword cannot be reassigned a new value once initialized.",TRUE
+52,8,MCQ,Which of the following is not a type of database model?,Linear
+53,8,MCQ,"In a relational database, what does SQL stand for?",Structured Query Language
+54,8,MCQ,Which SQL keyword is used to retrieve data from a database table?,SELECT
+55,8,MCQ,Which type of database is optimized for handling large amounts of data across distributed servers?,NoSQL Database
+56,8,MCQ,Which of the following is a primary key in a database table?,A unique identifier for each record in the table
+57,8,MCQ,Which SQL clause is used to filter records based on specified conditions?,WHERE
+58,8,MCQ,Which of the following is not a type of database constraint?,Subquery
+59,8,MCQ,Which SQL statement is used to insert new records into a database table?,INSERT INTO
+60,8,MCQ,What type of relationship is established when a primary key in one table is referenced as a foreign key in another table?,One-to-Many
+61,8,MCQ,Which of the following is not a valid SQL data type?,BOOLEAN
+62,4,MCQ,What is Power BI primarily used for?,Data visualization and analysis
+63,4,MCQ,Which of the following is a component of Power BI?,Power Query
+64,4,MCQ,What is Power BI Desktop?,A desktop application for creating Power BI reports
+65,4,MCQ,Which Power BI feature allows users to ask questions about their data using natural language?,Q&A (Question and Answer)
+66,4,MCQ,Which Power BI service allows for sharing and collaboration on reports within an organization?,Power BI Pro
+67,4,MCQ,What type of data sources can Power BI connect to?,Both cloud-based and on-premises sources
+68,4,MCQ,Which Power BI feature allows users to create custom calculations and measures using a formula language?,DAX (Data Analysis Expressions)
+69,4,MCQ,What does Power BI Embedded allow developers to do?,Embed Power BI reports into custom applications
+70,4,MCQ,Which Power BI component allows users to create interactive visualizations for their data?,Power View
+71,4,MCQ,What is the primary difference between Power BI Pro and Power BI Free?,Power BI Pro offers additional collaboration and sharing capabilities
+72,2,MCQ,What is JavaScript primarily used for?,Creating dynamic and interactive web content
+73,2,MCQ,Which of the following is NOT a data type in JavaScript?,Integer
+74,2,MCQ,Which keyword is used to declare variables in JavaScript?,const
+75,2,MCQ,Which symbol is used for single-line comments in JavaScript?,//
+76,2,MCQ,What does DOM stand for in JavaScript?,Document Object Model
+77,2,MCQ,Which operator is used for strict equality comparison in JavaScript?,===
+78,2,MCQ,Which built-in method is used to print content to the console in JavaScript?,console.log()
+79,2,MCQ,"What does the ""typeof"" operator return for a function in JavaScript?","""function"""
+80,2,MCQ,Which loop is used to iterate over the elements of an array in JavaScript?,for loop
+81,2,MCQ,"What does the ""NaN"" value represent in JavaScript?","""Not a Number"""
+82,16,MCQ,What is phishing?,Data theft
+83,16,MCQ,What does DDoS stand for?,Distributed Denial of Service
+84,16,MCQ,What is ransomware?,Data encryption for ransom
+85,16,MCQ,What is a firewall?,Network traffic control
+86,16,MCQ,What is hacking?,Unauthorized system access
+87,16,MCQ,What is encryption?,Data protection
+88,16,MCQ,What is multi-factor authentication?,User verification with multiple methods
+89,16,MCQ,What is a trojan?,Malware disguised as legitimate software
+90,16,MCQ,What are security patches?,Bug fixes and vulnerability patches
+91,16,MCQ,What is NAT?,Network Address Translation
+92,16,TF,Phishing aims to steal personal info through deceptive emails.,TRUE
+93,16,TF,DDoS floods networks to make websites unavailable.,TRUE
+94,16,TF,Ransomware steals data from computers.,FALSE
+95,16,TF,Firewalls protect against physical damage from fire.,FALSE
+96,16,TF,Hacking involves performing complex math calculations.,FALSE
+97,16,TF,Encryption encodes info to keep it secret.,TRUE
+98,16,TF,Multi-factor authentication requires one method.,FALSE
+99,16,TF,Trojans replicate and attach to other files.,TRUE
+100,16,TF,Security patches fix software bugs.,TRUE
+101,16,TF,NAT translates internal IP addresses for internet communication.,TRUE

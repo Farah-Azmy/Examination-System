@@ -1,0 +1,243 @@
+QuestionID,Choices
+1,TRUE
+1,FALSE
+2,TRUE
+2,FALSE
+3,TRUE
+3,FALSE
+4,TRUE
+4,FALSE
+5,TRUE
+5,FALSE
+6,TRUE
+6,FALSE
+7,TRUE
+7,FALSE
+8,TRUE
+8,FALSE
+9,TRUE
+9,FALSE
+10,TRUE
+10,FALSE
+11,TRUE
+11,FALSE
+12,TRUE
+12,FALSE
+13,TRUE
+13,FALSE
+14,TRUE
+14,FALSE
+15,TRUE
+15,FALSE
+16,TRUE
+16,FALSE
+17,TRUE
+17,FALSE
+18,TRUE
+18,FALSE
+19,TRUE
+19,FALSE
+20,TRUE
+20,FALSE
+21,TRUE
+21,FALSE
+22,TRUE
+22,FALSE
+23,TRUE
+23,FALSE
+24,TRUE
+24,FALSE
+25,TRUE
+25,FALSE
+26,TRUE
+26,FALSE
+27,TRUE
+27,FALSE
+28,TRUE
+28,FALSE
+29,TRUE
+29,FALSE
+30,TRUE
+30,FALSE
+31,TRUE
+31,FALSE
+32,TRUE
+32,FALSE
+33,TRUE
+33,FALSE
+34,TRUE
+34,FALSE
+35,TRUE
+35,FALSE
+36,TRUE
+36,FALSE
+37,TRUE
+37,FALSE
+38,TRUE
+38,FALSE
+39,TRUE
+39,FALSE
+40,TRUE
+40,FALSE
+41,TRUE
+41,FALSE
+42,TRUE
+42,FALSE
+43,TRUE
+43,FALSE
+44,TRUE
+44,FALSE
+45,TRUE
+45,FALSE
+46,TRUE
+46,FALSE
+47,TRUE
+47,FALSE
+48,TRUE
+48,FALSE
+49,TRUE
+49,FALSE
+50,TRUE
+50,FALSE
+51,TRUE
+51,FALSE
+52,Hierarchical
+52,Network
+52,Linear
+53,Structured Query Language
+53,Sequential Query Language
+53,Simple Query Language
+54,SELECT
+54,UPDATE
+54,DELETE
+55,Relational Database
+55,NoSQL Database
+55,Object-Oriented Database
+56,A unique identifier for each record in the table
+56,A key that can be repeated multiple times
+56,A key that is used for indexing purposes only
+57,WHERE
+57,GROUP BY
+57,ORDER BY
+58,Primary Key
+58,Foreign Key
+58,Subquery
+59,INSERT INTO
+59,ADD RECORD
+59,CREATE RECORD
+60,One-to-One
+60,One-to-Many
+60,Many-to-Many
+61,VARCHAR
+61,BOOLEAN
+61,INTEGER
+62,Data storage
+62,Data visualization and analysis
+62,Web development
+63,Excel
+63,PowerPoint
+63,Power Query
+64,A cloud-based version of Power BI
+64,A programming language for data analysis
+64,A desktop application for creating Power BI reports
+65,Power Query
+65,Power View
+65,Q&A (Question and Answer)
+66,Power BI Pro
+66,Power BI Desktop
+66,Power BI Embedded
+67,Only cloud-based sources
+67,Only on-premises sources
+67,Both cloud-based and on-premises sources
+68,Power Pivot
+68,Power View
+68,DAX (Data Analysis Expressions)
+69,Embed Power BI reports into custom applications
+69,Share reports with colleagues
+69,Schedule report refreshes
+70,Power Query
+70,Power View
+70,Power Pivot
+71,Power BI Free has more features than Power BI Pro
+71,Power BI Pro offers additional collaboration and sharing capabilities
+71,"Power BI Pro is a desktop application, while Power BI Free is a cloud service"
+72,Styling web pages
+72,Creating dynamic and interactive web content
+72,Managing server-side operations
+73,String
+73,Integer
+73,Boolean
+74,var
+74,let
+74,const
+75,//
+75,/*
+75,#
+76,Document Object Model
+76,Data Object Model
+76,Document Order Model
+77,==
+77,===
+77,=
+78,console.log()
+78,print()
+78,alert()
+79,"""function"""
+79,"""object"""
+79,"""undefined"""
+80,for loop
+80,while loop
+80,foreach loop
+81,"""Not a Null"""
+81,"""Not a Number"""
+81,"""No Answer"""
+82,Data encryption
+82,Data theft
+82,Data manipulation
+83,Distributed Denial of Service
+83,Data Disclosure Security
+83,Digital Defense System
+84,Data encryption
+84,Data theft
+84,Data encryption for ransom
+85,Data encryption
+85,Network traffic control
+85,Software updates
+86,Unauthorized system access
+86,Unauthorized data access
+86,Unauthorized network access
+87,Data storage
+87,Data obfuscation
+87,Data protection
+88,User verification with multiple methods
+88,User verification with a single method
+88,User verification with biometrics
+89,Self-replicating malware
+89,Malware disguised as legitimate software
+89,Malware that spreads through networks
+90,Bug fixes and vulnerability patches
+90,Feature upgrades
+90,Performance enhancements
+91,VPN
+91,Network Address Translation
+91,Intrusion Detection System
+92,TRUE
+92,FALSE
+93,TRUE
+93,FALSE
+94,TRUE
+94,FALSE
+95,TRUE
+95,FALSE
+96,TRUE
+96,FALSE
+97,TRUE
+97,FALSE
+98,TRUE
+98,FALSE
+99,TRUE
+99,FALSE
+100,TRUE
+100,FALSE
+101,TRUE
+101,FALSE

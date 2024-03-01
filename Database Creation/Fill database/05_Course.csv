@@ -1,0 +1,39 @@
+CourseID,InstructorID,CourseName,CourseDuration
+1,1,HTML and CSS Fundamentals,60
+2,1,JavaScript for Web Developers,40
+3,1,Responsive Web Design,37
+4,2,Power BI Basics and Visualization,40
+5,2,Data Modeling and DAX Functions,40
+6,3,Power Query for Data Transformation,10
+7,4,Introduction to Full Stack Development,28
+8,5,Database Design and Management,21
+9,6,Server-Side Scripting with Node.js,60
+10,7,Introduction to DevOps Principles,21
+11,8,Version Control with Git,60
+12,9, CI/CD,21
+13,10,Introduction to Mobile App Development,37
+14,11,Android App Development with Kotlin,28
+15,12,iOS App Development with Swift,30
+16,13,Introduction to Cybersecurity,60
+17,14,Network Security Fundamentals,30
+18,15,Ethical Hacking and Penetration Testing,40
+19,16,Fundamentals of Interior Design,30
+20,17,Space Planning and Layout Design,30
+21,18,Color Theory and Material Selection,28
+22,19,Critical Thinking and Problem-Solving,28
+23,19,Presentation Skills,30
+24,20,Interview and CV,21
+25,1,Front-End Frameworks ,20
+26,7,Deployment and DevOps for Full Stack Applications,60
+27,21, IaC ,100
+28,2,Advanced Power BI Features and Custom Visuals,40
+29,22,Security Policies and Risk Management,70
+30,23,Incident Response and Forensics in Cybersecurity,15
+31,24,Furniture and Fixture Design,10
+32,24,Lighting and Decor in Interior Design,80
+33,4,Cross-Platform Mobile Development,120
+34,4,Mobile App Testing and Deployment,10
+35,12,Monitoring and Logging in DevOps,10
+36,1,Server-Side Development with Node.js,15
+37,25,Time Management,24
+38,2,Power BI Service and Collaboration,20

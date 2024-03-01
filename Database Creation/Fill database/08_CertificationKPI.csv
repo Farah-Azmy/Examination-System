@@ -1,0 +1,259 @@
+CertificationID,StudentID,CertificationName,Duration(weeks),Platform
+1,11,SQL Advanced,9,Udacity
+2,23,SQL Advanced,18,Coursera
+3,13,SQL Advanced,20,Udemy
+4,38,Google Data Analytics,18,FreeCodeCamp
+5,9,Microsoft Data Analyst,17,Coursera
+6,79,Microsoft Data Analyst,17,Coursera
+7,54,Google Data Analytics,11,Coursera
+8,5,SQL Advanced,8,FreeCodeCamp
+9,25,Microsoft Data Analyst,11,Udacity
+10,40,SQL Advanced,10,Udacity
+11,98,SQL Advanced,8,Udemy
+12,11,Microsoft Data Analyst,20,FreeCodeCamp
+13,37,SQL Advanced,10,Udemy
+14,10,Google Data Analytics,15,FreeCodeCamp
+15,86,Google Data Analytics,6,Coursera
+16,53,Microsoft Data Analyst,8,FreeCodeCamp
+17,54,Microsoft Data Analyst,4,Udacity
+18,58,SQL Advanced,7,Udemy
+19,42,SQL Advanced,15,Coursera
+20,60,Google Data Analytics,5,Coursera
+21,61,Google Data Analytics,18,Udemy
+22,77,Google Data Analytics,13,Udemy
+23,2,Microsoft Data Analyst,10,Coursera
+24,82,Microsoft Data Analyst,10,Udacity
+25,52,Microsoft Data Analyst,17,Udemy
+26,24,SQL Advanced,15,Udemy
+27,78,Google Data Analytics,18,Coursera
+28,49,Google Data Analytics,15,Udacity
+29,54,Google Data Analytics,15,Udemy
+30,100,SQL Advanced,5,Udacity
+31,12,SQL Advanced,7,FreeCodeCamp
+32,45,Google Data Analytics,8,FreeCodeCamp
+33,86,Microsoft Data Analyst,12,Udemy
+34,26,Microsoft Data Analyst,9,FreeCodeCamp
+35,49,Google Data Analytics,9,Udacity
+36,95,Google Data Analytics,12,Coursera
+37,31,Microsoft Data Analyst,15,Udemy
+38,98,Google Data Analytics,18,Coursera
+39,77,Google Data Analytics,5,Udacity
+40,64,Google Data Analytics,5,Udemy
+41,183,Adobe certificate,20,Udacity
+42,145,Adobe certificate,15,Coursera
+43,244,Revit,10,Coursera
+44,132,Revit,6,Udacity
+45,159,Interior Design Intro,13,Coursera
+46,220,Revit,7,Udemy
+47,218,Revit,6,Coursera
+48,190,Revit,7,FreeCodeCamp
+49,231,Interior Design Intro,19,FreeCodeCamp
+50,230,Interior Design Intro,9,Coursera
+51,238,3D Max,6,Coursera
+52,189,Revit,8,Udemy
+53,223,Adobe certificate,13,Coursera
+54,206,Interior Design Intro,4,FreeCodeCamp
+55,218,Interior Design Intro,6,Udacity
+56,187,Adobe certificate,19,Udacity
+57,182,Adobe certificate,16,Udemy
+58,243,Adobe certificate,17,Udacity
+59,250,Revit,7,Coursera
+60,185,Revit,20,Udacity
+61,133,Interior Design Intro,16,Udacity
+62,129,Interior Design Intro,10,Coursera
+63,143,Adobe certificate,8,Udemy
+64,235,Interior Design Intro,16,Udacity
+65,136,3D Max,16,FreeCodeCamp
+66,235,Interior Design Intro,13,Coursera
+67,219,3D Max,6,Udacity
+68,162,3D Max,16,Coursera
+69,216,Adobe certificate,11,Coursera
+70,204,3D Max,18,Udacity
+71,196,Adobe certificate,11,Coursera
+72,113,Interior Design Intro,14,Udacity
+73,108,Interior Design Intro,19,Udemy
+74,120,Adobe certificate,16,FreeCodeCamp
+75,104,Interior Design Intro,9,Udemy
+76,238,Revit,6,Udacity
+77,176,3D Max,19,Udacity
+78,127,Interior Design Intro,9,FreeCodeCamp
+79,110,Revit,9,Udacity
+80,152,3D Max,13,Coursera
+81,175,Adobe certificate,4,FreeCodeCamp
+82,212,Revit,9,Udemy
+83,238,Revit,6,FreeCodeCamp
+84,178,3D Max,13,Udacity
+85,102,Interior Design Intro,14,Coursera
+86,163,3D Max,7,Coursera
+87,235,Interior Design Intro,5,Coursera
+88,129,Revit,16,FreeCodeCamp
+89,156,Revit,12,Coursera
+90,123,3D Max,9,Coursera
+91,285,CCNA,14,FreeCodeCamp
+92,299,SOC Analyst,14,Udacity
+93,300,OSCP,12,FreeCodeCamp
+94,296,OSCP,17,Coursera
+95,279,SOC Analyst,19,Udemy
+96,273,OSCP,13,Coursera
+97,299,OSCP,5,Coursera
+98,281,SOC Analyst,14,Udemy
+99,261,OSCP,17,Udacity
+100,285,CCNA,11,Coursera
+101,286,SOC Analyst,12,Udacity
+102,280,SOC Analyst,12,FreeCodeCamp
+103,280,SOC Analyst,10,Udemy
+104,256,SOC Analyst,5,Coursera
+105,260,CCNA,8,Udacity
+106,584,IBM Full Stack,15,Coursera
+107,426,NodeJs,5,Coursera
+108,329,React,5,Udemy
+109,337,Java Script,12,FreeCodeCamp
+110,337,NodeJs,20,FreeCodeCamp
+111,319,NodeJs,10,Coursera
+112,301,IBM Full Stack,14,Coursera
+113,425,IBM Full Stack,15,Udemy
+114,327,Java Script,13,FreeCodeCamp
+115,392,React,10,Udacity
+116,523,IBM Full Stack,8,Udacity
+117,514,IBM Full Stack,7,FreeCodeCamp
+118,494,Java Script,15,Udacity
+119,563,Java Script,11,Coursera
+120,331,IBM Full Stack,10,Udemy
+121,421,NodeJs,8,Udacity
+122,402,NodeJs,14,FreeCodeCamp
+123,576,IBM Full Stack,17,Udacity
+124,320,IBM Full Stack,15,FreeCodeCamp
+125,402,React,20,Coursera
+126,515,IBM Full Stack,17,Udemy
+127,463,NodeJs,4,FreeCodeCamp
+128,456,Java Script,16,Coursera
+129,328,IBM Full Stack,17,Udacity
+130,432,Introduction to Front-End,11,Udacity
+131,479,React,5,Udacity
+132,510,React,7,Coursera
+133,424,NodeJs,11,Udemy
+134,600,Java Script,13,Udacity
+135,426,Java Script,5,Udemy
+136,507,IBM Full Stack,15,Udacity
+137,589,Introduction to Front-End,10,FreeCodeCamp
+138,512,React,19,Udemy
+139,436,NodeJs,9,FreeCodeCamp
+140,313,Java Script,7,Coursera
+141,331,React,6,Coursera
+142,485,Introduction to Front-End,4,Udemy
+143,357,Java Script,20,Coursera
+144,462,IBM Full Stack,5,FreeCodeCamp
+145,410,Java Script,17,Udemy
+146,428,NodeJs,8,FreeCodeCamp
+147,385,IBM Full Stack,18,FreeCodeCamp
+148,463,Java Script,16,Udacity
+149,407,Java Script,8,Udacity
+150,533,NodeJs,12,Udemy
+151,351,IBM Full Stack,6,Coursera
+152,489,Introduction to Front-End,6,FreeCodeCamp
+153,587,React,19,Udemy
+154,652,Automation,8,Udacity
+155,625,AWS DevOps,11,Coursera
+156,648,DevOps on Cloud,18,FreeCodeCamp
+157,635,DevOps on Cloud,4,Udemy
+158,614,DevOps on Cloud,13,Udemy
+159,659,DevOps on Cloud,5,Udemy
+160,638,AWS DevOps,4,Udemy
+161,642,Automation,19,Udemy
+162,660,Automation,7,Udemy
+163,640,DevOps on Cloud,17,FreeCodeCamp
+164,638,DevOps on Cloud,17,Udacity
+165,602,Automation,17,Udemy
+166,639,Automation,12,Udemy
+167,657,AWS DevOps,19,Coursera
+168,635,Automation,7,Coursera
+169,725,Android App Dev,14,Coursera
+170,780,Meta React Native,13,Coursera
+171,680,Android App Dev,15,Udacity
+172,762,Android App Dev,6,FreeCodeCamp
+173,788,Android App Dev,5,Coursera
+174,683,Intro To Agile,14,Udacity
+175,675,Android App Dev,12,Udacity
+176,784,Intro To Agile,13,Udacity
+177,687,Android App Dev,20,Udemy
+178,796,Android App Dev,6,Udacity
+179,712,Android App Dev,18,Udacity
+180,772,Meta React Native,16,Udacity
+181,795,Intro To Agile,4,FreeCodeCamp
+182,693,Intro To Agile,14,Coursera
+183,760,Android App Dev,17,FreeCodeCamp
+184,716,Meta React Native,12,FreeCodeCamp
+185,706,Android App Dev,15,Udacity
+186,676,Meta React Native,16,FreeCodeCamp
+187,789,Android App Dev,19,Udemy
+188,780,Android App Dev,6,Udacity
+189,720,Android App Dev,19,FreeCodeCamp
+190,772,Android App Dev,16,FreeCodeCamp
+191,691,Intro To Agile,4,FreeCodeCamp
+192,776,Android App Dev,16,Udemy
+193,782,Intro To Agile,14,FreeCodeCamp
+194,676,Android App Dev,5,Udacity
+195,750,Intro To Agile,20,Udemy
+196,734,Android App Dev,19,Udacity
+197,701,Android App Dev,16,Udemy
+198,696,Android App Dev,19,FreeCodeCamp
+199,762,Google UX,10,Coursera
+200,753,JAVA,10,Codecademy
+201,713,CSS,9,Codecademy
+202,696,JAVA,17,Udemy
+203,745,Google UX,15,Codecademy
+204,694,JAVA,8,Coursera
+205,791,Google UX,17,Coursera
+206,769,CSS,18,Codecademy
+207,714,HTML,13,FreeCodeCamp
+208,713,JAVA,18,Udemy
+209,689,Google UX,11,Udacity
+210,720,JAVA,4,Codecademy
+211,792,HTML,14,Udacity
+212,783,JAVA,8,FreeCodeCamp
+213,770,JAVA,13,Codecademy
+214,793,CSS,14,FreeCodeCamp
+215,731,Google UX,14,Coursera
+216,709,JAVA,14,FreeCodeCamp
+217,770,HTML,20,Coursera
+218,716,CSS,4,Coursera
+219,748,Google UX,12,Udemy
+220,742,JAVA,5,Udacity
+221,730,Angular,5,Udacity
+222,796,HTML,18,Codecademy
+223,799,HTML,9,Codecademy
+224,686,HTML,4,Udemy
+225,725,HTML,4,Coursera
+226,692,CSS,4,Coursera
+227,736,Google UX,5,FreeCodeCamp
+228,791,CSS,7,Udemy
+229,792,Angular,13,Udacity
+230,751,JAVA,11,Udacity
+231,717,JAVA,11,Udemy
+232,799,CSS,14,Coursera
+233,749,JAVA,19,FreeCodeCamp
+234,759,Google UX,10,Udacity
+235,789,JAVA,20,Codecademy
+236,678,Google UX,17,Coursera
+237,710,HTML,18,Udacity
+238,719,Angular,11,FreeCodeCamp
+239,775,CSS,19,Udacity
+240,675,CSS,13,Coursera
+241,737,JAVA,15,Codecademy
+242,701,CSS,15,Codecademy
+243,721,Angular,17,Udemy
+244,694,Angular,7,Codecademy
+245,686,Angular,5,FreeCodeCamp
+246,713,CSS,10,Codecademy
+247,681,JAVA,17,Coursera
+248,682,HTML,17,Udacity
+249,696,HTML,13,Udacity
+250,706,CSS,17,Codecademy
+251,706,CSS,6,Codecademy
+252,722,Google UX,4,FreeCodeCamp
+253,716,JAVA,11,Udemy
+254,688,HTML,19,FreeCodeCamp
+255,730,Angular,12,Udemy
+256,775,HTML,11,FreeCodeCamp
+257,685,Angular,17,FreeCodeCamp
+258,700,Angular,20,FreeCodeCamp
